@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    font-size: 14pt;
+    text-align: center;
+    background-color: rgba(39, 37, 37, 0.733);
+}
+
+p {
+	letter-spacing: 4px;
+	color: rgb(25, 177, 88);
+	text-shadow: 1px 1px 1px rgb(253, 255, 255),
+         		1px 1px 1px rgb(253, 255, 255);
+
+}
+
+h1{
+    display: block;
+	letter-spacing: 2px;
+}
+.card-img-top{
+    min-height: 120px;
+}
